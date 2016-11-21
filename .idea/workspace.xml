@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8070e1f-7cf6-447e-aee9-5a13fa8f4cbd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BBB.js" afterPath="$PROJECT_DIR$/BBB.js" />
     </list>
     <ignored path="blackbubble.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,7 +67,7 @@
             <entry file="file://$PROJECT_DIR$/BBB.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="225">
-                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#42#0" expanded="false" />
                   </folding>
@@ -255,7 +257,7 @@
       <workItem from="1479117601727" duration="2458000" />
       <workItem from="1479467704053" duration="843000" />
       <workItem from="1479724444331" duration="278000" />
-      <workItem from="1479725040733" duration="1400000" />
+      <workItem from="1479725040733" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="Удалил фиолетовую рамку">
       <created>1479726340785</created>
@@ -268,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47019000" />
+    <option name="totallyTimeSpent" value="47388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="194" y="26" width="1669" height="971" extended-state="0" />
@@ -607,7 +609,7 @@
     <entry file="file://$PROJECT_DIR$/BBB.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>

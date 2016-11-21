@@ -8,7 +8,10 @@ $(".BBB_news").click(function() {
 $(".BBB_main").not(":first").hide();
 
 
+$('.qweqw').on('click', function(){
+	console.log('QWER');
 
+});
 
 
 $(".BBB_news").click(function() {
