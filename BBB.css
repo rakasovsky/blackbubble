@@ -121,8 +121,7 @@ h2 {
   display: flex;
   flex-direction: column;
   width: 80%;
-  margin: 1px;
-  border: solid 1px blueviolet; }
+  margin: 1px; }
 
 .BBB_article_title {
   display: flex;
